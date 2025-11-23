@@ -74,18 +74,7 @@ Deux défis créatifs ont été relevés avec passion, volonté et curiosité :
 
 ## 🎵 Projet Individuel : Audacity
 
-### 📁 Contenu du Dossier
 
-Le projet individuel d’édition audio est inclus sous :  
-**`projet_audacity_individuel.aup3`**
-
-### 🛠️ Techniques Appliquées
-
-- 🎤 Normalisation et compression vocale  
-- 🎛️ Effets de réverbération et d'équalisation  
-- ✂️ Montage par compression dynamique  
-- 🎚️ Mixage multi-pistes  
-- 🔊 Analyse spectrale  
 
 ---
 
