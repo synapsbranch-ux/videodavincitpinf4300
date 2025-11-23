@@ -1,4 +1,3 @@
-
 # 📽️ INF4300 - Technologie Multimédia
 
 <div align="center">
@@ -19,7 +18,7 @@
 Ce dépôt contient les travaux pratiques du cours **INF4300 - Technologie Multimédia**.  
 Deux défis créatifs ont été relevés avec passion, volonté et curiosité :
 
-1. **Projet Individuel** : Manipulation audio avec Audacity
+1. **Projet Individuel** : Manipulation audio avec Audacity  
 2. **Projet de Groupe** : Montage vidéo créatif (Lyrics Video)
 
 ---
@@ -45,7 +44,15 @@ Deux défis créatifs ont été relevés avec passion, volonté et curiosité :
 
 ## 🎬 Projet de Groupe : Luther - "Merci" (Lyrics Video)
 
-### Visionner le Rendu Final
+### 🎥 Visionner ou Télécharger le Rendu Final
+
+**Lien Google Drive (Téléchargement)** :  
+👉 https://drive.google.com/file/d/1kNwAp9QMXq2NpZTLfYxHzwgpPL1ZJI2S/view?usp=drive_link
+
+**Lien AWS S3 (Lecture & Téléchargement)** :  
+👉 https://inf4300dev3josephsamueljonathansultanpeteredison.s3.us-east-1.amazonaws.com/luther_merci_lyrics_video.mp4
+
+---
 
 <div align="center">
   <video width="100%" max-width="800px" controls>
@@ -55,11 +62,13 @@ Deux défis créatifs ont été relevés avec passion, volonté et curiosité :
   </video>
 </div>
 
+---
+
 ### ℹ️ Mentions Légales
 
 > **⚠️ Note sur les droits d'auteur** :  
 > Ce montage est réalisé dans le cadre éducatif du cours INF4300 et revendique le **Fair Use** pour une utilisation pédagogique et non commerciale.  
-> Nous n'avons pas publié cette vidéo sur YouTube ou d'autres plateformes pour respecter les détenteurs de droits.
+> La vidéo n'a pas été publiée sur YouTube pour respecter les détenteurs de droits.
 
 ---
 
@@ -67,20 +76,16 @@ Deux défis créatifs ont été relevés avec passion, volonté et curiosité :
 
 ### 📁 Contenu du Dossier
 
-Le projet individuel sur l'édition audio est disponible dans ce dépôt sous le nom :  
+Le projet individuel d’édition audio est inclus sous :  
 **`projet_audacity_individuel.aup3`**
 
 ### 🛠️ Techniques Appliquées
 
-- 🎤 Normalisation et compression vocale
-- 🎛️ Effets de réverbération et d'équalisation
-- ✂️ Montage par compression dynamique
-- 🎚️ Mixage multi-pistes
-- 🔊 Analyse spectrale
-
----
-
-
+- 🎤 Normalisation et compression vocale  
+- 🎛️ Effets de réverbération et d'équalisation  
+- ✂️ Montage par compression dynamique  
+- 🎚️ Mixage multi-pistes  
+- 🔊 Analyse spectrale  
 
 ---
 
@@ -88,8 +93,7 @@ Le projet individuel sur l'édition audio est disponible dans ce dépôt sous le
 
 <div align="center">
   <img src="https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobe&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=for-the-badge&logo=adobe&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DaVinci%20Resolve-1A1A1A?style=for-the-badge&logo=davinci-resolve&logoColor=white"/>
   <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </div>
 
@@ -97,17 +101,17 @@ Le projet individuel sur l'édition audio est disponible dans ce dépôt sous le
 
 ## 🎓 Apprentissages Clés
 
-- ✅ Maîtrise des principes du montage audio/video
-- ✅ Gestion des flux de production multimédia
-- ✅ Respect des droits d'auteur en contexte éducatif
-- ✅ Collaboration en équipe sur un projet créatif
-- ✅ Optimisation de l'encodage et de l'hébergement cloud
+- ✅ Maîtrise du montage audio/vidéo  
+- ✅ Workflow multimédia complet  
+- ✅ Respect des droits d’auteur  
+- ✅ Collaboration efficace en équipe  
+- ✅ Encodage vidéo + hébergement cloud  
 
 ---
 
 ## 📬 Contacts & Retours
 
-Pour toute question sur ces projets, veuillez contacter l'un des membres de l'équipe via l'adresse institutionnelle ISTEAH.
+Pour toute question, contacter l’équipe via l’adresse institutionnelle ISTEAH.
 
 ---
 
@@ -115,5 +119,3 @@ Pour toute question sur ces projets, veuillez contacter l'un des membres de l'é
   <sub>Réalisé avec ❤️, 🎧 et ☕ par Joseph Samuel Jonathan & Sultan Peter Edison</sub><br>
   <sub><i>"La créativité est l'intelligence qui s'amuse." - Albert Einstein</i></sub>
 </div>
-```
-
